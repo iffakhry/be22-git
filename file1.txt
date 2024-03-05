@@ -1,2 +1,2 @@
-halo 
+halo <nama-kalian>
 halo all. apa kabar?
